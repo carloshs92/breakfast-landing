@@ -1,4 +1,4 @@
-title = "Airspace for Hugo"
+title = "De los Andes"
 baseURL = "https://carloshs92.github.io/breakfast-landing/"
 languageCode = "en-us"
 theme = "airspace-hugo"
@@ -47,7 +47,7 @@ theme = "airspace-hugo"
     enable = true
     title = "A digital marketing &amp; design agency"
     subtitle = "We love the Web and the work we do.<br/>We work closely with our clients to deliver the best possible solutions for their needs"
-    bgImage = "img/slider-bg.jpg"
+    bgImage = "img/slider-background.jpg"
     btnText = "Discover Our Projects"
     url = "#"
 
@@ -66,7 +66,7 @@ theme = "airspace-hugo"
   [params.feature]
     enable = true
     title = "We believe in great ideas"
-    bgImage = "img/feature-bg.jpg"
+    bgImage = "img/feature-background.jpg"
     content = "Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
     [params.feature.button]
       caption = "View Works"
