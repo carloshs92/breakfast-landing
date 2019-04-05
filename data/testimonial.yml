@@ -1,10 +1,10 @@
 enable: true
-title: Fun Facts About Us
+title: Descubre cómo comenzar
 paragraph: >
-  Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics
+  ¿Por qué debemos tomar desayuno? Porque después de 10 a 12 horas de ayuno necesitamos energía y nutrientes para realizar nuestras actividades diarias. La falta de este provoca fatiga y pérdida de energía.
 
 number:
-  enable : true
+  enable : false
 numbers:
   - icon: ion-ios-chatboxes-outline
     counter: 2000
@@ -20,11 +20,11 @@ numbers:
     text: Cups of Coffee
 
 peoples:
-  enable : true
+  enable : false
 people:
   - text: >
       This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd.
-    quoteImg: img/cotation.png    
+    quoteImg: img/cotation.png
     image: img/item-img1.jpg
     name: Rose Ray
     role: CEO-Themefisher
