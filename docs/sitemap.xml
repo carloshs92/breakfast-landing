@@ -8,12 +8,12 @@
   </url>
   
   <url>
-    <loc>https://carloshs92.github.io/breakfast-landing/contact/</loc>
+    <loc>https://carloshs92.github.io/breakfast-landing/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://carloshs92.github.io/breakfast-landing/</loc>
-    <priority>0</priority>
+    <loc>https://carloshs92.github.io/breakfast-landing/contact/</loc>
   </url>
   
   <url>
