@@ -379,6 +379,11 @@ font header .navbar-default .navbar-nav li a:hover {
   margin-bottom: 20px;
 }
 
+#feature ul li {
+  color: #8d8f92;
+  list-style-type: circle;
+}
+
 #feature .btn-view-works {
   background: #655E7A;
   color: #fff;

@@ -21,30 +21,30 @@ theme = "airspace-hugo"
 
   [params.slider]
     enable = true
-    title = "El desayuno que deseas"
-    subtitle = "Tú decides que desayunar.<br/>Recibe tu pedido de manera rápida y personalizada"
-    bgImage = "img/slider-background.png?v=1.0"
+    title = "El desayuno que tu deseas"
+    subtitle = "Recibe tu pedido de manera rápida y personalizada"
+    bgImage = "img/slider-background.jpg?v=1.0"
     btnText = ""
     url = "#"
 
   [params.wrapper]
     enable = true
-    image = "img/wrapper-img.jpg"
+    image = "img/wrapper-image.jpg?v=1.1"
     title = "Quienes Somos"
     italic = "El desayuno es la única comida del día que se tiende a ver con el mismo tipo de reverencia tradicional como la que la mayoría de la gente asocia con el almuerzo y la cena."
-    paragraph = "Somos personas apasionadas por la buena comida y la nutrición de las personas y queremos ayudar a las personas a que inicien bien cada día con un desayuno balanceado que puedan disfrutar de inicio a fin."
+    paragraph = "Somos personas apasionadas por la buena comida y la salud de las personas. Queremos llegar a contribuir a que se inicie con energía cada día ofreciendo desayunos que disfruten de inicio a fin."
 
 
   [params.feature]
     enable = true
-    title = "Un desayuno para cada uno"
-    bgImage = "img/feature-backgrounds.jpg?v=1.0"
-    content = "Disfruta de nuestra gran variedad de desayunos como el combo 'levanta muertos', 'choque y fuga', 'el sport', 'el vegetariano', 'el marinero', 'el mañanero'. <br/> Estos desayunos son altamente nutritivos y a un buen precio."
+    title = "¿Cómo es tu desayuno ideal?"
+    bgImage = "img/feature-background.jpg?v=1.0"
+    content = "Elige entre una gran variedad de desayunos: <ul><li style='color: #8d8f92;list-style-type: circle;'>Emoliente, Maca, Quinua, Avena, Yogurt y 7 Semillas</li><li style='color: #8d8f92;list-style-type: circle;'>Pan chapla, francés e integral</li><li style='color: #8d8f92;list-style-type: circle;'>Palta, tamal, huevos, tortillas con espinaca, queso, pollo, salchicha, queso fresco</li> <br/> <span style='color: #8d8f92;list-style-type: circle;'>¡Disfrútalos! Todos los productos son frescos y a un buen precio.</span>"
 
   [params.call]
     enable = false
     bgImage = "img/call-to-action-bg.jpg"
-    title = "Un buen día inicia con un buen desayuno."
+    title = ""
     paragraph = ""
 
   [params.contact]
