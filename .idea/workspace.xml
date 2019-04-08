@@ -17,19 +17,24 @@
       <file leaf-file-name="config.toml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config.toml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="41" column="398" selection-start-line="41" selection-start-column="398" selection-end-line="41" selection-end-column="398" />
+            <state relative-caret-position="300">
+              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/airspace-hugo/layouts/index.html">
+      <file leaf-file-name="testimonial.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/testimonial.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="18" selection-start-line="15" selection-end-line="16" />
+            <state relative-caret-position="15">
+              <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/airspace-hugo/layouts/partials/footer.html">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="feature.html" pinned="false" current-in-tab="false">
@@ -61,13 +66,47 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="contact.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/contact.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="15">
+                <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="service.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/service.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="work.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/work.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="service.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/service.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>header </find>
-      <find>header {</find>
-      <find>.css</find>
       <find>BaseURL</find>
       <find>SiteInfo</find>
       <find>feature-bg.jpg</find>
@@ -95,13 +134,16 @@
       <find>#feature</find>
       <find>#feature p</find>
       <find>nutrición</find>
+      <find>desc</find>
+      <find>Porque después de 10</find>
+      <find>Desc</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/themes/airspace-hugo</dir>
       <dir>$PROJECT_DIR$/static</dir>
-      <dir>$PROJECT_DIR$</dir>
       <dir>$PROJECT_DIR$/themes/airspace-hugo/layouts</dir>
       <dir>$PROJECT_DIR$/themes</dir>
+      <dir>$PROJECT_DIR$</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -115,11 +157,11 @@
         <option value="$PROJECT_DIR$/themes/airspace-hugo/layouts/partials/slider.html" />
         <option value="$PROJECT_DIR$/themes/airspace-hugo/layouts/partials/contact.html" />
         <option value="$PROJECT_DIR$/content/contact.md" />
-        <option value="$PROJECT_DIR$/data/testimonial.yml" />
         <option value="$PROJECT_DIR$/themes/airspace-hugo/exampleSite/config.toml" />
         <option value="$PROJECT_DIR$/themes/airspace-hugo/layouts/partials/testimonial.html" />
         <option value="$PROJECT_DIR$/themes/airspace-hugo/layouts/partials/call-to-action.html" />
         <option value="$PROJECT_DIR$/themes/airspace-hugo/static/css/style.css" />
+        <option value="$PROJECT_DIR$/data/testimonial.yml" />
         <option value="$PROJECT_DIR$/config.toml" />
       </list>
     </option>
@@ -237,12 +279,12 @@
       <workItem from="1554346407562" duration="283000" />
       <workItem from="1554430607566" duration="6363000" />
       <workItem from="1554482235607" duration="18000" />
-      <workItem from="1554680589893" duration="2493000" />
+      <workItem from="1554680589893" duration="2984000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9786000" />
+    <option name="totallyTimeSpent" value="10277000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -276,14 +318,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/static/img/slider-bg.jpg" />
-    <entry file="file://$PROJECT_DIR$/themes/airspace-hugo/layouts/partials/slider.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/img/wrapper-img.png" />
     <entry file="file://$PROJECT_DIR$/static/img/feature-backgrounds.jpg">
       <provider selected="true" editor-type-id="images" />
@@ -429,14 +463,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/img/logo.png" />
-    <entry file="file://$PROJECT_DIR$/content/service.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/img/portfolio/work1.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -466,16 +492,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/img/wrapper-img.png" />
-    <entry file="file://$PROJECT_DIR$/content/contact.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="15">
-            <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/airspace-hugo/layouts/partials/contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -526,17 +542,7 @@
     <entry file="file://$PROJECT_DIR$/static/img/logo_dla.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/testimonial.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="206" selection-start-line="3" selection-start-column="206" selection-end-line="3" selection-end-column="206" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/work.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/service.yml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/airspace-hugo/layouts/index.html">
@@ -569,10 +575,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/content/contact.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/service.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/work.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/service.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/testimonial.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/airspace-hugo/layouts/partials/footer.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/config.toml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="41" column="398" selection-start-line="41" selection-start-column="398" selection-end-line="41" selection-end-column="398" />
+        <state relative-caret-position="300">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
         </state>
       </provider>
     </entry>
