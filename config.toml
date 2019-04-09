@@ -18,7 +18,7 @@ theme = "airspace-hugo"
       weight = 1
       name = "Términos y condiciones"
       url = "#"
- 
+
   [params.slider]
     enable = true
     title = "El desayuno que tu deseas"
